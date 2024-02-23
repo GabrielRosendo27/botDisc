@@ -243,4 +243,4 @@ async def on_message(message):
                 await message.channel.send(f"Personagem {nome_personagem} não encontrado no banco de dados.")
 
 # Substitua 'TOKEN_DO_SEU_BOT' pelo token real do seu bot
-client.run('MTIwOTUwNTk2MzIxNzAwMjU4Ng.GaqaBb.YXamFuyoS7k39UR-zU5DVeOEJfkDLSjUCrLulE')
+client.run('')
